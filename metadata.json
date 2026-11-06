@@ -1,0 +1,6 @@
+{
+  "name": "Aura Luxe Beauty Parlour & Salon",
+  "description": "Premier luxury beauty parlour featuring hair styling, bridal artistry, skin treatments, recent style gallery, verified guest reviews, and online appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
